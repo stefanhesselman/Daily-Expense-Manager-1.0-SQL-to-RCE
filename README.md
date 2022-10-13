@@ -66,6 +66,9 @@ Content-Type: text/html; charset=UTF-8
 ## Script
 A proof-of-concept script written in python 3.6.x is in this repository. Follow instructions to inject a webshell onto the target.
 
+![Executing the proof-of-concept script](https://github.com/stefanhesselman/Daily-Expense-Manager-1.0-SQL-to-RCE/blob/main/demo.gif?raw=true)
+
+
 ## Links
 Vendor Homepage: https://code-projects.org/daily-expense-manager-in-php-with-source-code/
 
