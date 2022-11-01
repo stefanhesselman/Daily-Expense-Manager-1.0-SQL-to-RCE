@@ -1,4 +1,4 @@
-# Daily Expense Manager 1.0 - Unauthenticated SQL Injection
+# Daily Expense Manager 1.0 - 'term' SQL Injection
 SQL injection in Daily Expense Manager 1.0 allows for injection of SQL queries, resulting in information disclosure and remote code execution.
 
 ## Vulnerable Code
